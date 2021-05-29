@@ -1,5 +1,5 @@
 # first-remote-repository
+
 Here is my first github repository
 
-
-README.md was just edited manually. This file was modifed locally
+this file was modified manually during conficit duration
